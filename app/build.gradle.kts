@@ -41,7 +41,7 @@ configure<ApplicationExtension> {
 
     defaultConfig {
         applicationId = NEWPIPE_APPLICATION_ID_OLD
-        resValue("string", "app_name", "NewPipe")
+        resValue("string", "app_name", "SimonTube")
         minSdk {
             version = release(NEWPIPE_VERSION_SDK_MIN)
         }
